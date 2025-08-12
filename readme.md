@@ -1,1 +1,3 @@
-![pic](Saturn.jpg)
+<p align="center">
+ <img src="saturn.jpg" alt="pic">
+</p>

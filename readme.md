@@ -1,4 +1,4 @@
 <p align="center">
- hey.<br>
+ Wormsec: https://discord.gg/htb <br>
  <img src="Saturn.jpg" alt="pic">
 </p>
